@@ -24,7 +24,7 @@ At the moment I've made desktop version with only HTML(hopefully somehow semanti
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./design/screenshot.png)
 
 
 ### Links
