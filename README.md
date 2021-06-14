@@ -5,18 +5,14 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [What I learned](#what-i-learned)  
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -43,9 +39,8 @@ At the moment I've made desktop version with only HTML(hopefully somehow semanti
 
 Capability to turn given graphic design into CSS and HTML. 
 
+## Author
 
-### Continued development
-
-I can 
+Mario Krok-Adamski
 
 
