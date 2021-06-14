@@ -29,7 +29,7 @@ At the moment I've made desktop version with only HTML(hopefully somehow semanti
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://adamskys.github.io/FAQcard-FEMentor/)
 
 ## My process
 
